@@ -18,3 +18,4 @@ custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]美国-自动`[]所有-�
 
 
 ruleset=🚀 国外域名,[]GEOSITE,geolocation-!cn
+custom_proxy_group=🚀 国外域名`select`[]DIRECT`[]美国-自动`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]其他-自动`[]REJECT
