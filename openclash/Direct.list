@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,haidan.video
-DOMAIN-SUFFIX,node-getfree-lv1.rdns.link
+# DOMAIN-SUFFIX,node-getfree-lv1.rdns.link
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
@@ -15,7 +15,7 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,36.233.254.148/32,no-resolve
+# IP-CIDR,36.233.254.148/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
