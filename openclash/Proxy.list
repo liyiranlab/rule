@@ -17,9 +17,6 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
-DOMAIN,cn.bing.com
-DOMAIN-SUFFIX,casaos.app
-DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
@@ -62,6 +59,9 @@ DOMAIN-SUFFIX,steamcommunity.com
 # DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
 #自己的
+DOMAIN,cn.bing.com
+DOMAIN-SUFFIX,casaos.app
+DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,sg-micro.de
 DOMAIN-SUFFIX,jubt.live
