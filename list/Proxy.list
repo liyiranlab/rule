@@ -58,8 +58,21 @@ DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
 # DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
+#google
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com.tw
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 #自己的
 DOMAIN,cn.bing.com
+DOMAIN-SUFFIX,engage.cloudflareclient.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,c.mi.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,casaos.app
 DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,ipleak.net
