@@ -134,6 +134,9 @@ DOMAIN-SUFFIX,icewhale.com
 DOMAIN-SUFFIX,xn--7kq24s4ynvb.site
 DOMAIN-SUFFIX,xtom.hk
 
+#tg
+IP-CIDR,95.161.76.101/32,no-resolve
+
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
