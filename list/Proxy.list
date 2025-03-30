@@ -41,7 +41,6 @@ DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,llgjc1.com
-DOMAIN-SUFFIX,qichiyu.com
 
 DOMAIN-SUFFIX,polivera.ai
 DOMAIN-SUFFIX,asiassn.com
@@ -125,6 +124,15 @@ DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,casaos.io
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,ossplanet.net
+DOMAIN-SUFFIX,xn--mes358acgm99l.com
+DOMAIN-SUFFIX,getfree.cloud
+DOMAIN-SUFFIX,knjc.cfd
+DOMAIN-SUFFIX,casaos.app
+DOMAIN-SUFFIX,icewhale.com
+DOMAIN-SUFFIX,xn--7kq24s4ynvb.site
+DOMAIN-SUFFIX,xtom.hk
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
