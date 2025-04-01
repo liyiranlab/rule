@@ -1,7 +1,7 @@
 # 直连节点
 # IP段匹配
-IP-CIDR,36.233.254.148/32,no-resolve
-IP-CIDR,36.232.1.103/32,no-resolve
+IP-CIDR,36.233.254.148/32
+IP-CIDR,36.232.1.103/32
 
 # 国外DNS
-DOMAIN,node-getfree-lv1.rdns.link
+DOMAIN-SUFFIX,node-getfree-lv1.rdns.link
