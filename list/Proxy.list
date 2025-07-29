@@ -133,6 +133,12 @@ DOMAIN-SUFFIX,casaos.app
 DOMAIN-SUFFIX,icewhale.com
 DOMAIN-SUFFIX,xn--7kq24s4ynvb.site
 DOMAIN-SUFFIX,xtom.hk
+DOMAIN-SUFFIX,mirrors.ocf.berkeley.edu
+DOMAIN-SUFFIX,atomonetworks.com
+DOMAIN-SUFFIX,mirrors.mit.edu
+DOMAIN-SUFFIX,mirror.csclub.uwaterloo.ca
+DOMAIN-SUFFIX,muug.ca/mirror
+DOMAIN-SUFFIX,mirror.kumi.systems
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
