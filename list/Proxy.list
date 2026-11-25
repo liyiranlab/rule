@@ -142,6 +142,7 @@ DOMAIN-SUFFIX,mirror.csclub.uwaterloo.ca
 DOMAIN-SUFFIX,muug.ca/mirror
 DOMAIN-SUFFIX,mirror.kumi.systems
 
+IP-CIDR,9.9.9.9/32,no-resolve
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
